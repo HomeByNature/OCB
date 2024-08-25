@@ -2034,14 +2034,14 @@ class Application:
         if hasattr(current_thread, 'uid'):
             del current_thread.uid
 
-        if odoo.tools.config['proxy_mode'] and environ.get("HTTP_X_FORWARDED_HOST"):
+        if odoo.tools.config['proxy_mode']:
             # The ProxyFix middleware has a side effect of updating the
             # environ, see https://github.com/pallets/werkzeug/pull/2184
             def fake_app(environ, start_response):
                 return []
             def fake_start_response(status, headers):
                 return
-            ProxyFix(fake_app)(environ, fake_start_response)
+            ProxyFix(fake_app, x_for=config['proxy_x_for'], x_proto=config['proxy_x_proto'], x_host=config['proxy_x_host'], x_port=config['proxy_x_port'], x_prefix=config['proxy_x_prefix'])(environ, fake_start_response)
 
         with HTTPRequest(environ) as httprequest:
             request = Request(httprequest)
