@@ -2115,7 +2115,7 @@ msgstr "背景"
 #: code:addons/website/static/src/js/tours/configurator_tour.js:0
 #, python-format
 msgid "Background Shape"
-msgstr "Background Shape"
+msgstr ""
 
 #. module: website
 #. odoo-javascript
@@ -2200,7 +2200,7 @@ msgstr "大"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Big Boxes"
-msgstr "大色塊"
+msgstr "大方塊"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippet_options
@@ -3114,7 +3114,7 @@ msgstr "Countdown ends in"
 #: code:addons/website/static/src/snippets/s_countdown/options.xml:0
 #, python-format
 msgid "Countdown is over - Firework"
-msgstr "Countdown is over - Firework"
+msgstr "倒數結束 － 煙花"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_visitor__country_id
@@ -6606,7 +6606,7 @@ msgstr "元數據"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
 msgid "Mich Stark, COO"
-msgstr "Mich Stark，運營長"
+msgstr "Mich Stark，營運總監"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_company_team
@@ -8497,7 +8497,7 @@ msgstr "Search Results"
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_page_view_search
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_view_search
 msgid "Search Visitor"
-msgstr "搜索訪問者"
+msgstr "搜尋訪客"
 
 #. module: website
 #: model_terms:digest.tip,tip_description:website.digest_tip_website_1
@@ -9107,7 +9107,7 @@ msgstr "現在開始"
 #: model_terms:ir.ui.view,arch_db:website.s_tabs
 #: model_terms:ir.ui.view,arch_db:website.s_text_image
 msgid "Start with the customer – find out what they want and give it to them."
-msgstr "從顧客開始 – 找到他們想要什麼並提供他們."
+msgstr "從客戶角度出發：找出他們想要甚麼，並盡量配合提供。"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_carousel
@@ -9758,7 +9758,7 @@ msgstr "這是一個 \""
 msgid ""
 "This is a simple hero unit, a simple jumbotron-style component for calling "
 "extra attention to featured content or information."
-msgstr "這是一個簡單的超大螢幕樣式組件，用於引起對特色內容或信息的額外關注."
+msgstr "這是一個簡單的主要顯示組件，以簡單的超大螢幕形式顯示資訊，為特色內容或訊息引起額外注意力。"
 
 #. module: website
 #. odoo-python
@@ -9848,7 +9848,7 @@ msgstr "時間到！你現在可以訪問"
 #: model_terms:ir.ui.view,arch_db:website.s_facebook_page_options
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Timeline"
-msgstr "時間軸"
+msgstr "時間線"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_visitor__timezone
@@ -9910,7 +9910,7 @@ msgstr "要增加第四列，請使用每個塊的右圖示減小這三列的大
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_tabs
 msgid "To be successful your content needs to be useful to your readers."
-msgstr "要成功，你的內容必須對讀者有用。"
+msgstr "成功的內容必須對讀者有用。"
 
 #. module: website
 #: model_terms:digest.tip,tip_description:website.digest_tip_website_2
@@ -10561,7 +10561,7 @@ msgstr "訪問頁面歷史記錄"
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_page_view_search
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_view_kanban
 msgid "Visitor"
-msgstr "訪問者"
+msgstr "訪客"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.website_visitor_page_view_graph
@@ -11068,7 +11068,7 @@ msgstr "節錄一段您客戶的話.引用他人的話是個建立產品或服�
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_tabs
 msgid "Write one or two paragraphs describing your product or services."
-msgstr "寫一兩段描述您的產品或服務的內容."
+msgstr "寫一兩段文字，描述你的產品或服務。"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_image_text
@@ -11076,7 +11076,7 @@ msgstr "寫一兩段描述您的產品或服務的內容."
 msgid ""
 "Write one or two paragraphs describing your product or services. To be "
 "successful your content needs to be useful to your readers."
-msgstr "寫一兩段描述您的產品或服務的文件.要取得成功，您的內容需要對您的讀者有用."
+msgstr "寫一兩段文字，描述你的產品或服務。成功的內容必須對讀者有用。"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_cover
@@ -11084,7 +11084,7 @@ msgid ""
 "Write one or two paragraphs describing your product, services or a specific "
 "feature.<br/> To be successful your content needs to be useful to your "
 "readers."
-msgstr "寫一兩段話描述你的產品、服務或特定的功能.<br/>這些話要有效，內容必須是對讀者有用的."
+msgstr "寫一兩段文字，描述你的產品或服務，或個別特色及功能。<br/>成功的內容必須對讀者有用。"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_features
@@ -11267,7 +11267,7 @@ msgstr "你的公司"
 msgid ""
 "Your Dynamic Snippet will be displayed here... This message is displayed "
 "because you did not provided both a filter and a template to use.<br/>"
-msgstr "您的動態代碼段將顯示在此處... 顯示此消息是因為您沒有同時提供要使用的過濾器和模板.<br/>"
+msgstr "你的動態小片段將在此處顯示。系統現時顯示此訊息，是因為你未有設定篩選器及範本以供使用。<br/>"
 
 #. module: website
 #. odoo-javascript
